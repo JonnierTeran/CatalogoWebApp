@@ -1,1 +1,51 @@
 /* You can add global styles to this file, and also import other style files */
+ 
+/*Estilos Generales*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Fondo de imagen*/
+body{
+    background-image: url(https://media.istockphoto.com/id/674582668/photo/colorful-candies-background.webp?b=1&s=170667a&w=0&k=20&c=RtVvK_tCyPR_XbHXDdvthDwNPMCuYj80DnaDKuuDSxg=);
+}
+
+/*Contenedor general*/
+
+
+/* SubContenedor*/
+#font{
+   background-color: rgb(230, 222, 243);
+   height: 100% !important; 
+   opacity: 98%;
+
+} 
+
+/* hr*/
+hr{
+    color: black;
+}
+
+/* Estilos del encabezado*/
+#Encabezado{
+    color: black; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial, sans-serif';
+    display: inline-block;
+}
+
+
+#Desc{
+    color: black; 
+    font-family: 'fantasy';
+    
+}
+
+#img1{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+   
+}
+
